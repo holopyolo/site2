@@ -1,20 +1,24 @@
 body {
   width: 600px;
-  margin: 0 auto;
+  margin: 0;
   background-color: #FF9500;
   padding: 0 20px 20px 20px;
   border: 5px solid black;
 }
 html {
-  background-color: #00539F;
+  background-color: #FFFFFF	;
 }
 h1 {
   margin: 0;
   padding: 20px 0;
-  color: #00539F;
-  text-shadow: 2px 2px 1px black;
+  color: #228B22;
+  font-size: 200%;
+  color:
 }
 img {
   display: block;
   margin: 0 auto;
+}
+button {
+    color: #008B8B;
 }
